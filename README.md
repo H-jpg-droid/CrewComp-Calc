@@ -1,1 +1,1 @@
-# CrewComp-Calc
+CrewComp Calc is a simple, automatic salary calculator made just for restaurant crew members. Instead of guessing your pay or trying to do complicated math, this tool does all the hard work for you. All you have to do is type in the date and the military time you check in and check out for your shifts. 
